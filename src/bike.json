@@ -1,0 +1,27 @@
+[
+  {
+    "manufacturer": "Yamaha",
+    "model": "R3",
+    "displacement": "321",
+    "horsepower": 44.4
+  },
+  {
+    "manufacturer": "KTM",
+    "model": "390 Duke",
+    "displacement": "373.2",
+    "horsepower": 43
+  },
+  {
+    "manufacturer": "BMW",
+    "model": "G 310 R",
+    "displacement": "313",
+    "horsepower": 34
+  },
+  {
+    "manufacturer": "Kawasaki ",
+    "model": "Ninja 400",
+    "displacement": "399",
+    "horsepower": 49
+  }
+
+]
