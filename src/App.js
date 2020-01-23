@@ -1,18 +1,12 @@
 import React from 'react';
-import Header from "./components/header/header";
-import Content from "./components/content/content";
-import Footer from "./components/footer/footer";
-import './App.scss';
 
-const myHtmlElement = <div className={"my-element"}>My html el in var</div>;
+import './App.scss';
+import Main from "./components/main";
 
 function App() {
   return (
     <div>
-      <Header inputValue={777} />
-      {myHtmlElement}
-      <Content/>
-      <Footer/>
+      <Main />
     </div>
   );
 }
